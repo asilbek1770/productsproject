@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "electronic",
+    "description": "description for 1-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "electronics",
+    "count": 1
+  },
+  {
+    "id": 2,
+    "title": "electronic",
+    "description": "description for 2-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "electronics",
+    "count": 1
+  },
+  {
+    "id": 3,
+    "title": "electronic",
+    "description": "description for 3-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "electronics",
+    "count": 1
+  },
+  {
+    "id": 4,
+    "title": "clothe",
+    "description": "description for 4-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "clothes",
+    "count": 1
+  },
+  {
+    "id": 5,
+    "title": "electronic",
+    "description": "description for 5-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "electronics",
+    "count": 1
+  },
+  {
+    "id": 6,
+    "title": "clothe",
+    "description": "description for 6-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "clothes",
+    "count": 1
+  },
+  {
+    "id": 7,
+    "title": "clothe",
+    "description": "description for 7-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "clothes",
+    "count": 1
+  },
+  {
+    "id": 8,
+    "title": "clothe",
+    "description": "description for 8-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "clothes",
+    "count": 1
+  },
+  {
+    "id": 9,
+    "title": "electronic",
+    "description": "description for 9-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "electronics",
+    "count": 1
+  },
+  {
+    "id": 10,
+    "title": "clothe",
+    "description": "description for 10-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "clothes",
+    "count": 1
+  },
+  {
+    "id": 11,
+    "title": "electronic",
+    "description": "description for 11-product",
+    "price": 10,
+    "img": "https://picsum.photos/seed/picsum/200/150",
+    "category": "electronics",
+    "count": 1
+  }
+]

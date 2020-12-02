@@ -1,0 +1,7 @@
+.product{
+    box-shadow: 0 0 8px;
+    transition: 0.5s all ease;
+}
+.product:hover{
+    box-shadow: 0 0;
+}
